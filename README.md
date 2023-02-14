@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://dev.to/bobbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bobbari" height="30" width="40" /></a>
 <a href="https://twitter.com/bobbarimahendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bobbarimahendra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahendra-nath-03943a41/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahendra-nath-03943a41/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahendra-nath-03943a41/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahendra-nath-03943a41/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
